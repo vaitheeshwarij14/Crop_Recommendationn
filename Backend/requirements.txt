@@ -1,0 +1,7 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+joblib==1.3.2
+scikit-learn==1.3.2
+numpy==1.24.4  # or the latest stable version
+gunicorn==20.1.0
+pandas==2.0.3
